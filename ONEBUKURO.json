@@ -1,0 +1,33 @@
+{
+  "title": "ONEBUKURO",
+  "description": "Source: https://redd.it/9aq90v",
+  "artist": "Yusuke Murata",
+  "author": "ONE",
+  "cover": "https://static.wikia.nocookie.net/onepunchman/images/d/d2/ONEBUKURO_1.png/revision/latest?cb=20210317074216",
+  "chapters": {
+    "1": {
+      "title": "ONEBUKURO 1",
+      "volume": "",
+      "last_updated": "1677434218",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/wCHn6eB"
+      }
+    },
+    "2": {
+      "title": "ONEBUKURO 2",
+      "volume": "",
+      "last_updated": "1677434242",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CgWZXfu"
+      }
+    },
+    "3": {
+      "title": "ONEBUKURO 3",
+      "volume": "",
+      "last_updated": "1677434255",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3VTvfhP"
+      }
+    }
+  }
+}
